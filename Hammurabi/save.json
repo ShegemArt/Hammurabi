@@ -1,0 +1,15 @@
+{
+  "round": 6,
+  "population": 65,
+  "wheat": 1774.65,
+  "acres": 1100,
+  "landPrice": 19,
+  "starved": 0,
+  "arrived": 6,
+  "plague": false,
+  "harvest": 1740,
+  "yieldPerAcre": 3,
+  "ratsEaten": 131.3,
+  "sumStarvationPercent": 0,
+  "sumAcresPerCitizen": 90.19660915289819
+}

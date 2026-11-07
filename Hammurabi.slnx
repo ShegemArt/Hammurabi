@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hammurabi/Hammurabi.vcxproj" Id="e6fb123b-f34a-49f9-b2b1-03fdb0d12c4d" />
+</Solution>
